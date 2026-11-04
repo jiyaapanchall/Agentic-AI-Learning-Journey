@@ -1,0 +1,86 @@
+# Day 01 — Introduction to Artificial Intelligence
+
+## 1. What is Artificial Intelligence (AI)?
+
+Artificial Intelligence (AI) is a field of computer science that focuses on creating machines and systems that can perform tasks that normally require human intelligence.
+
+Examples:
+- Voice assistants understanding our commands.
+- Google Maps suggesting the fastest route.
+- Face recognition in smartphones.
+- Recommendation systems on YouTube and Netflix.
+
+## 2. AI vs Machine Learning vs Generative AI
+
+These concepts are related, but they have different meanings.
+
+### Artificial Intelligence (AI)
+AI is the broader field of making machines perform intelligent tasks.
+
+**Example:** A computer recognising objects in an image.
+
+### Machine Learning (ML)
+Machine Learning is a branch of AI where computers learn patterns from data and use them to make predictions or decisions.
+
+**Example:** An email system identifying spam messages based on learned patterns.
+
+### Generative AI
+Generative AI is a type of AI that can create new content such as text, images, audio and code.
+
+**Example:** ChatGPT generating an email or an AI image generator creating artwork.
+
+### Quick Comparison
+
+| Concept | Main Purpose | Example |
+|---|---|---|
+| AI | Perform intelligent tasks | Face recognition |
+| ML | Learn patterns from data | Spam detection |
+| Generative AI | Generate new content | ChatGPT |
+
+## 3. What is an LLM?
+
+LLM stands for **Large Language Model**.
+
+An LLM is an AI model trained on large amounts of text so that it can understand and generate human-like language.
+
+Examples:
+- GPT
+- Gemini
+- Llama
+- Claude
+
+**Example:** When we ask ChatGPT to explain a programming concept, an LLM processes the request and generates an answer.
+
+An LLM can be used as the reasoning component of an AI agent, but an LLM alone is not automatically an AI agent.
+
+## 4. Real-World Applications of AI
+
+Some common applications of AI include:
+
+- Healthcare: Supporting medical image analysis.
+- Education: Personalised learning assistance.
+- Banking: Detecting unusual transactions.
+- Transportation: Route recommendations.
+- Entertainment: Content recommendations.
+- Software Development: Assisting with code generation and debugging.
+
+## 5. Key Takeaways
+
+- AI is the broader field of making machines perform intelligent tasks.
+- Machine Learning is a branch of AI that learns patterns from data.
+- Generative AI creates new content.
+- LLM stands for Large Language Model.
+- LLMs can be used in AI agents, but they are not automatically agents.
+
+## 6. What I Learned Today
+
+Today, I explored the fundamentals of Artificial Intelligence and understood the differences between AI, Machine Learning and Generative AI.
+
+I also learned what Large Language Models are and how they are used in everyday applications.
+
+This is my first step towards understanding Agentic AI and building practical AI applications.
+
+---
+
+**Learning Status:** Day 01 Completed  
+**Next Topic:** Understanding AI Agents and how they work.
