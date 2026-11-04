@@ -84,3 +84,9 @@ This is my first step towards understanding Agentic AI and building practical AI
 
 **Learning Status:** Day 01 Completed  
 **Next Topic:** Understanding AI Agents and how they work.
+
+Questions I Still Have!
+
+How does an AI agent make decisions?
+How does an LLM connect with external tools?
+What makes an AI agent different from a normal chatbot?
